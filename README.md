@@ -43,7 +43,7 @@
 
 点击下一步，等待安装完成，启动 VS Code
 
-![图片说明](images/Visua Studio Code运行截图.png)
+![图片说明](images/VisualStudioCode运行截图.png)
 
 
 三、Jupyter Notebook 安装与启动
@@ -59,7 +59,7 @@ jupyter notebook
 
 自动跳转浏览器，进入 Jupyter 工作目录
 
-![图片说明](images/Jupyter Notebook运行截图.png)
+![图片说明](images/JupyterNotebook运行截图.png)
 
 
 四、Android Studio 安装与配置
