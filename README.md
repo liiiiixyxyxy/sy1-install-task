@@ -44,6 +44,8 @@
 点击下一步，等待安装完成，启动 VS Code
 
 ![图片说明](images/Visua Studio Code运行截图.png)
+
+
 三、Jupyter Notebook 安装与启动
 
 
@@ -82,5 +84,5 @@ jupyter notebook
 自定义项目名称、包名，语言选择：Kotlin / Java
 等待 Gradle 同步构建项目，构建完成代表环境正常
 
+![图片说明](images/AndroidStudio安装截图.png)
 
-![图片说明](images/AndroidStudio运行截图.png)
